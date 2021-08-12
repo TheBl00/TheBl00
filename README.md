@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheBl00
+- 👀 I’m interested in 3D design.
+- 🌱 I’m currently learning blender, and unity.
+- 💞️ I’m looking to collaborate on blender , and unity projets that allow me to learn about all the feilds required for game design.
+- 📫 How to reach me is by email at redstonecrafter88@gmail.com (this email is old, and will be updated in the future)
